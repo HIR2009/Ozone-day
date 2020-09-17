@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@500&display=swap');
+
+h1 {
+    color: darkgreen;
+}
+
+div {
+    color: navy;
+}
+
+body {
+    background-color: lightsteelblue;
+    font-family: 'Grandstander', cursive;
+}
+
+h1:hover {
+    cursor: pointer;
+    transform: scale(2.5);
+}
+
+h1:hover {
+    cursor: pointer;
+}
+
+img:hover {
+    cursor: pointer;
+    transform: scale(1.5);
+}
+
+img {
+    width: 30%;
+    height: 50%;
+}
